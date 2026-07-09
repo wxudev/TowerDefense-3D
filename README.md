@@ -23,5 +23,5 @@
 ## 运行截图
 <img width="1287" height="615" alt="屏幕截图 2026-07-09 141744" src="https://github.com/user-attachments/assets/c7fd5075-0af1-404e-82ee-72f04e7f475b" />
 <img width="1291" height="573" alt="屏幕截图 2026-07-09 141719" src="https://github.com/user-attachments/assets/b720b317-ba74-4382-8a42-c9a524885cae" />
-<img width="1283" height="578" alt="屏幕截图 2026-07-09 141739" src="https://github.com/user-attachments/assets/e225267f-f45f-48ad-b280-780234643b66" />
 <img width="1279" height="579" alt="屏幕截图 2026-07-09 141729" src="https://github.com/user-attachments/assets/c280fc44-c8bb-47e2-9434-53865dcc21dd" />
+<img width="1283" height="578" alt="屏幕截图 2026-07-09 141739" src="https://github.com/user-attachments/assets/e225267f-f45f-48ad-b280-780234643b66" />
